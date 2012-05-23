@@ -1,0 +1,3 @@
+project(eblearn_matlab_wrapper)
+add_executable(eblearn_matlab_wrapper ebl_matwrapper.cpp main.cpp)
+target_link_libraries(eblearn_matlab_wrapper idx matio)
