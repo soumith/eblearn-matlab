@@ -1,3 +1,5 @@
+// EXAMPLE USAGE
+
 #include <iostream>
 #include "ebl_matwrapper.h"
 #include <eblearn/libidx.h>
