@@ -12,10 +12,12 @@ Ubuntu: sudo apt-get install libmatio-dev
 
 Usage
 -----
-> add the line 
-#define __MATLAB__ 
+add the line 
+
+<code>#define __MATLAB__ </code>
+
 before including eblearn headers
 
-> Link your program with libmatio (compiler flag -lmatio)
+Link your program with libmatio (compiler flag -lmatio)
 
 Check main.cpp for sample usage and CMakelists.txt for sample linking
