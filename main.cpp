@@ -1,3 +1,5 @@
+// EXAMPLE USAGE
+
 #include <iostream>
 #define __MATLAB__ 
 #include <eblearn/libidx.h> 
