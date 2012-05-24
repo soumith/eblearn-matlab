@@ -42,7 +42,7 @@ Using the wrapper in your code
 ---
 In your program, add the line
 
-<code>#define __MATLAB__ </code>
+#define __MATLAB__ 
 
 before including eblearn headers
 
