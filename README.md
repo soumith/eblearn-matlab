@@ -9,9 +9,8 @@ The wrapper uses libmatio-dev
 
 URL: http://sourceforge.net/projects/matio/ 
 
-If you are using ubuntu, you can quickly install libmatio with
-
-<code>sudo apt-get install libmatio-dev</code>
+Dont install libmatio from ubuntu repos (apt-get). They are out of date and you will get compile errors.
+Download libmatio 1.5 from the matio website.
 
 If not, you can get the package and build it from the website.
 
